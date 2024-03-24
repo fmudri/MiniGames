@@ -1,0 +1,15 @@
+d:\c#\MiniGames\MiniGames\bin\Debug\net8.0\MiniGames.exe
+d:\c#\MiniGames\MiniGames\bin\Debug\net8.0\MiniGames.deps.json
+d:\c#\MiniGames\MiniGames\bin\Debug\net8.0\MiniGames.runtimeconfig.json
+d:\c#\MiniGames\MiniGames\bin\Debug\net8.0\MiniGames.dll
+d:\c#\MiniGames\MiniGames\bin\Debug\net8.0\MiniGames.pdb
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.GeneratedMSBuildEditorConfig.editorconfig
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.AssemblyInfoInputs.cache
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.AssemblyInfo.cs
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.csproj.CoreCompileInputs.cache
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.sourcelink.json
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.dll
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\refint\MiniGames.dll
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.pdb
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\MiniGames.genruntimeconfig.cache
+d:\c#\MiniGames\MiniGames\obj\Debug\net8.0\ref\MiniGames.dll
