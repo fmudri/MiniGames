@@ -79,6 +79,9 @@ void Blackjack()
             AKO USPIJE OSTATI U PETLJI MOGU DOVRŠITI DRAW
         */
 
+        /* RAZDVOJITI HIT, STAND I ESCAPE U METODE PA PROBATI TAKO
+         * POTENCIJALNO NAPRAVITI SVAKI HAND KAO METODU
+        */
 
         Console.WriteLine("Press Spacebar to draw your hand");
         var key = Console.ReadKey(true).Key;
