@@ -83,7 +83,7 @@ class Program
         while (dealerTotal < 17)
         {
             dealerTotal = Hit(dealerCards, dealerTotal);
-            Console.WriteLine($"Dealer's total is {dealerTotal}");
+            Console.WriteLine($"\nDealer's total is {dealerTotal}");
         }
 
         if (dealerTotal > 21)
